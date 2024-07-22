@@ -1,2 +1,2 @@
 # FirstRepo
-<h1>Hi i am geetanjali</h1>
+<h6 style={color:"green"}>Hi i am geetanjali</h6>
